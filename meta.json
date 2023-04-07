@@ -1,0 +1,25 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://soillada.com/wp-content/themes/bootscore-child-main/img/logo/Logo_MaroonBG.png",
+        "url_png_logo": "https://soillada.com/wp-content/themes/bootscore-child-main/img/logo/Logo_MaroonBG.png",
+        "location": "Southern Illinois, USA",
+        "social": {
+            "twitter_handle": "soillada",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "soillada",
+            "twitch_handle": "",
+            "discord_handle": "cQU46mQTfw",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": "$soillada"
+        },
+        "about": {
+            "me": "At SO ILL, we are contributing to our beautiful small town USA in Southern Illinois",
+            "server": "Our mission at SO ILL is to empower the youth of Southern Illinois community by providing them with unique experiences and opportunities that help them learn and grow, while also keeping the spirit of childhood alive. We are working with various organizations in the community to help kids get experiences they wouldn’t normally get to have. As we dedicate 10% of our Cardano stakepool rewards to organizations working towards this mission, we strive to make a real difference in the lives of children in our community with the support of the Cardano network and our delegators.",
+            "company": "SoILL Technologies LLC",
+            "verification": ""
+        }
+    }
+}
