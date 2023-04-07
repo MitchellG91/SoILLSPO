@@ -17,7 +17,7 @@
         },
         "about": {
             "me": "At SO ILL, we are contributing to our beautiful small town USA in Southern Illinois",
-            "server": "Our mission at SO ILL is to empower the youth of Southern Illinois community by providing them with unique experiences and opportunities that help them learn and grow, while also keeping the spirit of childhood alive. We are working with various organizations in the community to help kids get experiences they wouldn’t normally get to have. As we dedicate 10% of our Cardano stakepool rewards to organizations working towards this mission, we strive to make a real difference in the lives of children in our community with the support of the Cardano network and our delegators.",
+            "server": "SO ILL SPO is running on 2x Baremetal Servers each of which have a 4 Core Intel 3.2 Ghz CPU, 32 GB RAM, and 1TB of SSD Storage. Plus 1x Cloud Server, through Oracle, which has a 4 Core Ampere (ARM Based) CPU, 24 GB RAM, and 200 GB SSD Storage. Our mission at SO ILL is to empower the youth of Southern Illinois community by providing them with unique experiences and opportunities that help them learn and grow, while also keeping the spirit of childhood alive. We are working with various organizations in the community to help kids get experiences they wouldn’t normally get to have. As we dedicate 10% of our Cardano stakepool rewards to organizations working towards this mission, we strive to make a real difference in the lives of children in our community with the support of the Cardano network and our delegators.",
             "company": "SoILL Technologies LLC",
             "verification": "6d71d984b632196ced"
         }
